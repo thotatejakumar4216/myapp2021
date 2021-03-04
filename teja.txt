@@ -5,4 +5,14 @@ hyderabad
 vijayawada
 Unitedstates
 
+<<<<<<< HEAD
 manjerra trinity corporate
+=======
+manjerra
+
+kphb,kukkatpally
+>>>>>>> 9d159a7ee4aa0264eba875b1d549d346a3bd679b
+
+1
+2
+3
